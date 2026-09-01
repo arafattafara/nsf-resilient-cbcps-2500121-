@@ -1,6 +1,6 @@
 # NSF Resilient CBCPS Project Website
 
-This is a static GitHub Pages website for the NSF HBCU-UP RIA project **“Integrating AI for Resilient Cloud-Based Cyber-Physical Systems.”**
+This is a static GitHub Pages website for the NSF project **“Research Initiation Award: Integrating AI for Resilient Cloud-Based Cyber-Physical Systems.”** The award period is September 1, 2026, through August 31, 2029.
 
 ## Publish on GitHub Pages
 
